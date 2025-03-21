@@ -1,7 +1,8 @@
 # 📊 Power BI Sales and Shipping Reports  
 
 This repository contains **Power BI reports** that provide insights into **sales performance** and **shipping analysis**. These visualizations help analyze market trends, product sales, and shipment distribution.
- **2️⃣ Shipping Analysis Report**  
+ ** Shipping Analysis Report**
+ 
 ![Shipping Report](pBI2.jpg)  
 
 #### 🔹 Key Insights:  
@@ -11,7 +12,7 @@ This repository contains **Power BI reports** that provide insights into **sales
 ✔ **Waterfall Analysis of Sales Changes**  
 
 
- **1️⃣ Sales Performance Report**  
+ ** Sales Performance Report**  
 ![Sales Report](pBI1.jpg)  
 
  🔹 Key Insights:  
