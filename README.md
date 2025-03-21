@@ -13,7 +13,7 @@ This repository contains **Power BI reports** that provide insights into **sales
 
 
  ** Sales Performance Report**  
-![Sales Report](pBI1.jpg)  
+![Sales Report](pBI1.jpg)
 
  🔹 Key Insights:  
 ✔ **Total Sales Overview**  
